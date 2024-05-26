@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\3_Zadanie2\3_Zadanie2\bin\Debug\net8.0-windows\3_Zadanie2.exe
+C:\Users\Lenovo\source\repos\3_Zadanie2\3_Zadanie2\bin\Debug\net8.0-windows\3_Zadanie2.deps.json
+C:\Users\Lenovo\source\repos\3_Zadanie2\3_Zadanie2\bin\Debug\net8.0-windows\3_Zadanie2.runtimeconfig.json
+C:\Users\Lenovo\source\repos\3_Zadanie2\3_Zadanie2\bin\Debug\net8.0-windows\3_Zadanie2.dll
+C:\Users\Lenovo\source\repos\3_Zadanie2\3_Zadanie2\bin\Debug\net8.0-windows\3_Zadanie2.pdb
+C:\Users\Lenovo\source\repos\3_Zadanie2\3_Zadanie2\obj\Debug\net8.0-windows\_3_Zadanie2.Form1.resources
+C:\Users\Lenovo\source\repos\3_Zadanie2\3_Zadanie2\obj\Debug\net8.0-windows\3_Zadanie2.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\3_Zadanie2\3_Zadanie2\obj\Debug\net8.0-windows\3_Zadanie2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\3_Zadanie2\3_Zadanie2\obj\Debug\net8.0-windows\3_Zadanie2.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\3_Zadanie2\3_Zadanie2\obj\Debug\net8.0-windows\3_Zadanie2.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\3_Zadanie2\3_Zadanie2\obj\Debug\net8.0-windows\3_Zadanie2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\3_Zadanie2\3_Zadanie2\obj\Debug\net8.0-windows\3_Zadanie2.dll
+C:\Users\Lenovo\source\repos\3_Zadanie2\3_Zadanie2\obj\Debug\net8.0-windows\refint\3_Zadanie2.dll
+C:\Users\Lenovo\source\repos\3_Zadanie2\3_Zadanie2\obj\Debug\net8.0-windows\3_Zadanie2.pdb
+C:\Users\Lenovo\source\repos\3_Zadanie2\3_Zadanie2\obj\Debug\net8.0-windows\3_Zadanie2.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\3_Zadanie2\3_Zadanie2\obj\Debug\net8.0-windows\ref\3_Zadanie2.dll
