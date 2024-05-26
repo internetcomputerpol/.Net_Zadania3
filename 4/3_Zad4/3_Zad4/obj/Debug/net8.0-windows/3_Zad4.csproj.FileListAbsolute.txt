@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\3_Zad4\3_Zad4\bin\Debug\net8.0-windows\3_Zad4.exe
+C:\Users\Lenovo\source\repos\3_Zad4\3_Zad4\bin\Debug\net8.0-windows\3_Zad4.deps.json
+C:\Users\Lenovo\source\repos\3_Zad4\3_Zad4\bin\Debug\net8.0-windows\3_Zad4.runtimeconfig.json
+C:\Users\Lenovo\source\repos\3_Zad4\3_Zad4\bin\Debug\net8.0-windows\3_Zad4.dll
+C:\Users\Lenovo\source\repos\3_Zad4\3_Zad4\bin\Debug\net8.0-windows\3_Zad4.pdb
+C:\Users\Lenovo\source\repos\3_Zad4\3_Zad4\obj\Debug\net8.0-windows\_3_Zad4.Form1.resources
+C:\Users\Lenovo\source\repos\3_Zad4\3_Zad4\obj\Debug\net8.0-windows\3_Zad4.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\3_Zad4\3_Zad4\obj\Debug\net8.0-windows\3_Zad4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\3_Zad4\3_Zad4\obj\Debug\net8.0-windows\3_Zad4.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\3_Zad4\3_Zad4\obj\Debug\net8.0-windows\3_Zad4.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\3_Zad4\3_Zad4\obj\Debug\net8.0-windows\3_Zad4.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\3_Zad4\3_Zad4\obj\Debug\net8.0-windows\3_Zad4.dll
+C:\Users\Lenovo\source\repos\3_Zad4\3_Zad4\obj\Debug\net8.0-windows\refint\3_Zad4.dll
+C:\Users\Lenovo\source\repos\3_Zad4\3_Zad4\obj\Debug\net8.0-windows\3_Zad4.pdb
+C:\Users\Lenovo\source\repos\3_Zad4\3_Zad4\obj\Debug\net8.0-windows\3_Zad4.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\3_Zad4\3_Zad4\obj\Debug\net8.0-windows\ref\3_Zad4.dll
