@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\Zadanie1_Szyfrowanie\Zadanie1_Szyfrowanie\bin\Debug\net8.0-windows\Zadanie1_Szyfrowanie.exe
+C:\Users\Lenovo\source\repos\Zadanie1_Szyfrowanie\Zadanie1_Szyfrowanie\bin\Debug\net8.0-windows\Zadanie1_Szyfrowanie.deps.json
+C:\Users\Lenovo\source\repos\Zadanie1_Szyfrowanie\Zadanie1_Szyfrowanie\bin\Debug\net8.0-windows\Zadanie1_Szyfrowanie.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Zadanie1_Szyfrowanie\Zadanie1_Szyfrowanie\bin\Debug\net8.0-windows\Zadanie1_Szyfrowanie.dll
+C:\Users\Lenovo\source\repos\Zadanie1_Szyfrowanie\Zadanie1_Szyfrowanie\bin\Debug\net8.0-windows\Zadanie1_Szyfrowanie.pdb
+C:\Users\Lenovo\source\repos\Zadanie1_Szyfrowanie\Zadanie1_Szyfrowanie\obj\Debug\net8.0-windows\Zadanie1_Szyfrowanie.Form1.resources
+C:\Users\Lenovo\source\repos\Zadanie1_Szyfrowanie\Zadanie1_Szyfrowanie\obj\Debug\net8.0-windows\Zadanie1_Szyfrowanie.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Zadanie1_Szyfrowanie\Zadanie1_Szyfrowanie\obj\Debug\net8.0-windows\Zadanie1_Szyfrowanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Zadanie1_Szyfrowanie\Zadanie1_Szyfrowanie\obj\Debug\net8.0-windows\Zadanie1_Szyfrowanie.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Zadanie1_Szyfrowanie\Zadanie1_Szyfrowanie\obj\Debug\net8.0-windows\Zadanie1_Szyfrowanie.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Zadanie1_Szyfrowanie\Zadanie1_Szyfrowanie\obj\Debug\net8.0-windows\Zadanie1_Szyfrowanie.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Zadanie1_Szyfrowanie\Zadanie1_Szyfrowanie\obj\Debug\net8.0-windows\Zadanie1_Szyfrowanie.dll
+C:\Users\Lenovo\source\repos\Zadanie1_Szyfrowanie\Zadanie1_Szyfrowanie\obj\Debug\net8.0-windows\refint\Zadanie1_Szyfrowanie.dll
+C:\Users\Lenovo\source\repos\Zadanie1_Szyfrowanie\Zadanie1_Szyfrowanie\obj\Debug\net8.0-windows\Zadanie1_Szyfrowanie.pdb
+C:\Users\Lenovo\source\repos\Zadanie1_Szyfrowanie\Zadanie1_Szyfrowanie\obj\Debug\net8.0-windows\Zadanie1_Szyfrowanie.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\Zadanie1_Szyfrowanie\Zadanie1_Szyfrowanie\obj\Debug\net8.0-windows\ref\Zadanie1_Szyfrowanie.dll
